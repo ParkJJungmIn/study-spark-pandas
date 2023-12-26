@@ -3,8 +3,8 @@
 # service_name = 's3'
 # endpoint_url = 'https://kr.object.ncloudstorage.com'
 # region_name = 'kr-standard'
-# access_key = '2o3pCjFqbupNW4gYbvDd'
-# secret_key = 'G1yE75RKntBwfYsKD5abbwEbmISugoGHCfJLbaqn'
+# access_key = ''
+# secret_key = ''
 
 # if __name__ == "__main__":
     # s3 = boto3.client(service_name, endpoint_url=endpoint_url, aws_access_key_id=access_key,
