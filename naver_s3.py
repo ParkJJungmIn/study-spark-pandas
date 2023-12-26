@@ -44,8 +44,8 @@ class ObjectStorageSample:
         self.region = 'kr-standard'
         self.endpoint = 'https://kr.object.ncloudstorage.com'
         self.host = 'kr.object.ncloudstorage.com'
-        self.access_key = '2o3pCjFqbupNW4gYbvDd'
-        self.secret_key = 'G1yE75RKntBwfYsKD5abbwEbmISugoGHCfJLbaqn'
+        self.access_key = ''
+        self.secret_key = ''
 
         self.payload_hash = 'UNSIGNED-PAYLOAD'
         self.hashing_algorithm = 'AWS4-HMAC-SHA256'
